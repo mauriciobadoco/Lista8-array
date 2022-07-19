@@ -12,7 +12,7 @@ public class Main {
         while (contador == true) {
             System.out.println("Deseja fazer o que? ");
             System.out.println("Digite 1 para Adicionar");
-            System.out.println("Digite 2 para Incluir");
+            System.out.println("Digite 2 para Exibir");
             System.out.println("Digite 3 para Excluir");
             System.out.println("Digite 4 para Sair");
 
